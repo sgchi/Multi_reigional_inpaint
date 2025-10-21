@@ -1,0 +1,14 @@
+{
+  "config": "../../calibs/Date03/config",
+  "intrinsic": "../../calibs/intrinsics",
+  "cat": "monitor",
+  "gender": "male",
+  "empty": "../../calibs/Date03/background",
+  "kinects": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "beta": null
+}
