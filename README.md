@@ -1,4 +1,4 @@
-# Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting
+# [ICCV 25] Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting
 
 ### PyTorch Implementation
 
